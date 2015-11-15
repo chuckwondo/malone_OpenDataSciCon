@@ -10,7 +10,7 @@ There are two ipython notebooks containing all the relevant code:
 
 The first has prompts only and will hopefully be the only one you need.  If you get stuck, or you are going through this workshop asynchronously, the second one might be a useful reference.  
 
-In order to work through this example, you will need the training and testing data associated with the Pump it Up: Data Mining the Water Table hosted on [drivendata.org](http://www.drivendata.org/competitions/7/data/).  In the notebooks, we call the training feature and labels files ``wells_features.csv`` and ``wells_labels.csv``, respectively.
+In order to work through this example, you will need the training and testing data associated with the Pump it Up: Data Mining the Water Table hosted on [drivendata.org](http://www.drivendata.org/competitions/7/data/).  In the notebooks, we call the training feature and labels files ``well_data.csv`` and ``well_labels.csv``, respectively.
 
 Software requirements are as follows:
 
